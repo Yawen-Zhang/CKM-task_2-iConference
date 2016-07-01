@@ -6,7 +6,7 @@ https://moodle.hu-berlin.de/mod/assign/view.php?id=1101462
 
 Task 2 due Friday 01 July 2016
 
-a: (for those with some programming background) Execute (or write) a Python program to extract information from one of the files in the Python folder. Upload the program you used and the results. Indicate what file was used. Due Friday 3 July 2015
+a: (for those with some programming background) Execute (or write) a Python program to extract information from one of the files in the Python folder. Upload the program you used and the results. Indicate what file was used.
 
 b: (for those with no programming background): Take one of the sample programs and describe in words exactly what it does when reading multiple texts. (NOTE: a similar exercise was on the exam last year)
 
