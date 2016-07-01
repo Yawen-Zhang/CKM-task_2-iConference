@@ -30,7 +30,7 @@ ddl: **Friday, 1 July 2016, 12:00 AM**
 ![keywords frequency](2015_tsv/keywords_all_frequency.png)
 
 ### 5 Region frequency
-![Region frequency](2015_tsv/Region_all_frequency.png)
+![Region frequency](2015_tsv/region_all_frequency.png)
 
 ### 6 Type frequency
-![Type frequency](2015_tsv/Type_all_frequency.png)
+![Type frequency](2015_tsv/type_all_frequency.png)
